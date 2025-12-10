@@ -1,0 +1,132 @@
+#lB {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 550px;
+  left: 5px;
+}
+
+#rB {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 550px;
+  left: 125px;
+}
+
+#uB {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 490px;
+  left: 65px;
+}
+
+#dB {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 550px;
+  left: 65px;
+}
+
+#p {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 430px;
+  left: 305px;
+}
+
+#d {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 430px;
+  left: 185px;
+}
+
+
+#lBp {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 490px;
+  left: 185px;
+}
+
+#rBp {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 490px;
+  left: 305px;
+}
+
+#uBp {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 430px;
+  left: 245px;
+}
+
+#dBp {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 490px;
+  left: 245px;
+}
+
+#bl {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 610px;
+  left: 245px;
+}
+
+#br {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 610px;
+  left: 305px;
+}

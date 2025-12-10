@@ -26,7 +26,7 @@ function block(xb, yb, tb) {
   }
 
   if (tb === "dirt") {
-    color = "brown";
+    color = "dark brown";
   }
 
   if (tb === "") {
@@ -34,7 +34,7 @@ function block(xb, yb, tb) {
   }
 
   if (tb === "wood") {
-    color = "coral";
+    color = "#442f26ff";//"coral";
   }
 
   if (tb === "grass") {
